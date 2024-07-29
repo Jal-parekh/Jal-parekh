@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on upcomimg projects
 - 📫 jalparekh60@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: ...
+  
 
 <!---
 Jal-parekh/Jal-parekh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
